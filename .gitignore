@@ -85,3 +85,7 @@ compile_commands.json
 
 !/output/files.json
 /output
+
+# venv
+venv/
+out/
