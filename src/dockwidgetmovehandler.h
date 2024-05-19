@@ -2,6 +2,7 @@
 #define DOCKWIDGETMOVEHANDLER_H
 
 #include <QQuickItem>
+#include <dockwidget.h>
 
 class DockWidget;
 
